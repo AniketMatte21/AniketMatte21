@@ -147,9 +147,9 @@ Git • GitHub • Docker • Postman • Maven
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: [My Linkedin](https://www.linkedin.com/in/aniket-matte/)
+* 💼 LinkedIn: [https://www.linkedin.com/in/aniket-matte/](https://www.linkedin.com/in/aniket-matte/)
 * 🌐 Portfolio: [Coming Soon](#)
-* 📧 Email: [My Email](aniketmatte12@gmail.com)
+* 📧 Email: [aniketmatte12@gmail.com](aniketmatte12@gmail.com)
 
 ---
 
