@@ -46,7 +46,7 @@ An AI-powered assistant that works with GitHub repositories and enables develope
 * Spring Boot backend
 * AI/LLM integration
 
-🔗 [View Repository- DevPilot Backend](https://github.com/AniketMatte21/DevPilot-frontend)
+🔗 [View Repository- DevPilot Frontend](https://github.com/AniketMatte21/DevPilot-frontend)
 🔗 [View Repository- DevPilot Backend](https://github.com/AniketMatte21/DevPilot-backend)
 
 ---
