@@ -64,7 +64,7 @@ An AI-powered email writing application that generates and assists with email co
 * AI/LLM integration
 * Frontend integration
 
-🔗 [View Repository](#)
+🔗 [View Repository](https://github.com/AniketMatte21/AI-Powered-Email-Writer-Extension)
 
 ---
 
